@@ -1,0 +1,7 @@
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\bin\Debug\22.09.20 Fibonachi.exe.config
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\bin\Debug\22.09.20 Fibonachi.exe
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\bin\Debug\22.09.20 Fibonachi.pdb
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\obj\Debug\22.09.20 Fibonachi.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\obj\Debug\22.09.20 Fibonachi.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\obj\Debug\22.09.20 Fibonachi.exe
+D:\User\Desktop\STEP\SystemProgram\22.09.20 Fibonachi\22.09.20 Fibonachi\obj\Debug\22.09.20 Fibonachi.pdb
