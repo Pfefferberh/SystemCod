@@ -1,0 +1,7 @@
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\bin\Debug\TaskHW.exe.config
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\bin\Debug\TaskHW.exe
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\bin\Debug\TaskHW.pdb
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\obj\Debug\TaskHW.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\obj\Debug\TaskHW.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\obj\Debug\TaskHW.exe
+D:\User\Desktop\STEP\SystemProgram\TaskHW\TaskHW\obj\Debug\TaskHW.pdb
