@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanklib", "Tank\Tanklib.csproj", "{AFD13F6D-A7D3-454C-A670-FAC308B4CFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksWar", "TanksWar\TanksWar.csproj", "{1A517D22-D16E-4768-8525-BB3E90A22643}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{93DF238C-C986-45A5-B0CC-C4B53DF8233A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD13F6D-A7D3-454C-A670-FAC308B4CFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD13F6D-A7D3-454C-A670-FAC308B4CFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD13F6D-A7D3-454C-A670-FAC308B4CFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD13F6D-A7D3-454C-A670-FAC308B4CFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A517D22-D16E-4768-8525-BB3E90A22643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A517D22-D16E-4768-8525-BB3E90A22643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A517D22-D16E-4768-8525-BB3E90A22643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A517D22-D16E-4768-8525-BB3E90A22643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7EBBC9-A673-4147-AC9F-CE95FCF4FBCD}
+	EndGlobalSection
+EndGlobal

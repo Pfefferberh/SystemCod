@@ -1,0 +1,10 @@
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\bin\Debug\TanksWar.exe.config
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\bin\Debug\TanksWar.exe
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\bin\Debug\TanksWar.pdb
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\bin\Debug\Tank.dll
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\bin\Debug\Tank.pdb
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\obj\Debug\TanksWar.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\obj\Debug\TanksWar.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\obj\Debug\TanksWar.csproj.CopyComplete
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\obj\Debug\TanksWar.exe
+D:\User\Desktop\STEP\SystemProgram\Tank\TanksWar\obj\Debug\TanksWar.pdb

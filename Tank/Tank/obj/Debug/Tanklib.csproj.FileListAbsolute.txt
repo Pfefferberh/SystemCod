@@ -1,0 +1,6 @@
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\bin\Debug\Tank.dll
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\bin\Debug\Tank.pdb
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\obj\Debug\Tanklib.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\obj\Debug\Tank.dll
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\obj\Debug\Tank.pdb
+D:\User\Desktop\STEP\SystemProgram\Tank\Tank\obj\Debug\Tanklib.csprojAssemblyReference.cache
