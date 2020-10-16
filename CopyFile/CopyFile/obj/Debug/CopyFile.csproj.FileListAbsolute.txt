@@ -1,0 +1,15 @@
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\MainWindow.g.cs
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\App.g.cs
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile_MarkupCompile.cache
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile_MarkupCompile.lref
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\MainWindow.baml
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.g.resources
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.Properties.Resources.resources
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.GenerateResource.cache
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+D:\User\Desktop\STEP\SystemProgram\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
