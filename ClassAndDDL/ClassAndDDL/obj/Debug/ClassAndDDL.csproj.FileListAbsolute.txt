@@ -1,0 +1,15 @@
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\bin\Debug\ClassAndDDL.exe.config
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\bin\Debug\ClassAndDDL.exe
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\bin\Debug\ClassAndDDL.pdb
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.csprojAssemblyReference.cache
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\MainWindow.g.cs
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\App.g.cs
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL_MarkupCompile.cache
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL_MarkupCompile.lref
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\MainWindow.baml
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.g.resources
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.Properties.Resources.resources
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.csproj.GenerateResource.cache
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.csproj.CoreCompileInputs.cache
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.exe
+D:\User\Desktop\STEP\SystemProgram\ClassAndDDL\ClassAndDDL\obj\Debug\ClassAndDDL.pdb
